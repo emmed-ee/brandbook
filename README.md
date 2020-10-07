@@ -1,7 +1,13 @@
+## Logo
 
 ![](logo_emmedetiim.svg)
 
-Merriweather Heavy 100
-Libre Baskerville Bold 32
-
+## Icon
 ![](icon_emmedetiim.svg)
+
+## Fonts
+
+1. Merriweather Heavy 100
+2. Libre Baskerville Bold 32
+
+
