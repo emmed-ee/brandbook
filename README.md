@@ -1,5 +1,5 @@
 
-![](logo-emmedetiim.png)
+![](logo_emmedetiim.svg)
 
 # emmedetiim
 
